@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 6d84e2968f8ecb04c8478dae57f996fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7902071565659449473
+    second: space-marine-idle_0
+  - first:
+      213: -884061757183203111
+    second: space-marine-idle_1
+  - first:
+      213: 8214164746644178477
+    second: space-marine-idle_2
+  - first:
+      213: -7361812837265364456
+    second: space-marine-idle_3
+  - first:
+      213: 4483537306722029144
+    second: space-marine-idle_4
+  - first:
+      213: 2232950347569042512
+    second: space-marine-idle_5
+  - first:
+      213: 918883225197435541
+    second: space-marine-idle_6
+  - first:
+      213: -3663710616012866637
+    second: space-marine-idle_7
+  - first:
+      213: -3603448431459685079
+    second: space-marine-idle_8
+  - first:
+      213: 3735842563169855575
+    second: space-marine-idle_9
+  - first:
+      213: -6245077876056680303
+    second: space-marine-idle_10
+  - first:
+      213: -429410587726427621
+    second: space-marine-idle_11
+  - first:
+      213: -4962908039971773860
+    second: space-marine-idle_12
+  - first:
+      213: -2311078734046714991
+    second: space-marine-idle_13
+  - first:
+      213: 9047818538187041087
+    second: space-marine-idle_14
+  - first:
+      213: 5749656093002108751
+    second: space-marine-idle_15
+  - first:
+      213: -818015341199930684
+    second: space-marine-idle_16
+  - first:
+      213: 3193889965573374633
+    second: space-marine-idle_17
+  - first:
+      213: -8023207937271324206
+    second: space-marine-idle_18
+  - first:
+      213: -1656329293497305737
+    second: space-marine-idle_19
+  - first:
+      213: 6728638294936339934
+    second: space-marine-idle_20
+  - first:
+      213: -7767272264474192333
+    second: space-marine-idle_21
+  - first:
+      213: -7426574824105504938
+    second: space-marine-idle_22
+  - first:
+      213: -2655278296555481624
+    second: space-marine-idle_23
+  - first:
+      213: 4839275077198230769
+    second: space-marine-idle_24
+  - first:
+      213: 1587393204244693390
+    second: space-marine-idle_25
+  - first:
+      213: 7977572540126617537
+    second: space-marine-idle_26
+  - first:
+      213: 3416554597368648642
+    second: space-marine-idle_0
+  - first:
+      213: 3455405248225501646
+    second: space-marine-idle_1
+  - first:
+      213: -3645464564011787438
+    second: space-marine-idle_2
+  - first:
+      213: -5547488935164859975
+    second: space-marine-idle_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space-marine-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d2ebfd4a0a6f20800000000000000
+      internalID: 3416554597368648642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space-marine-idle_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1608704c014ff20800000000000000
+      internalID: 3455405248225501646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space-marine-idle_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b9dc42b45b86dc0800000000000000
+      internalID: -3645464564011787438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space-marine-idle_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9a610943c5303b0800000000000000
+      internalID: -5547488935164859975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
