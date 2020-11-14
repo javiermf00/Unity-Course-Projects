@@ -8,14 +8,14 @@ public class Player : MonoBehaviour
     Animator myAnim;
     float speed = 5f;
 
-    float jumpSpeed = 12f;
+    float jumpSpeed = 14f;
     bool isGrounded;
     public Transform feetPos;
     [SerializeField]
     float checkRadius = 0.3f;
     public LayerMask whatIsGround;
 
-
+    public bool IsAlive = true;
 
     // Start is called before the first frame update
     void Start()
@@ -43,6 +43,21 @@ public class Player : MonoBehaviour
         else if(rb.velocity.x == 0){
             myAnim.SetBool("IsRunning", false);
         }
-        
+
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            Death();
+            FindObjectOfType<ScoreManager>().GameEnded();
+        }
+    }
+
+    void Death()
+    {
+        Destroy(gameObject);
+        IsAlive = false;
     }
 }

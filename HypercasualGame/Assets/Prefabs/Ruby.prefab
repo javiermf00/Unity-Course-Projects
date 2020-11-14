@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3407315660425491997}
   - component: {fileID: 3407315660425491970}
   - component: {fileID: 3407315660425491996}
-  - component: {fileID: 3407315660425491999}
+  - component: {fileID: -1980198324907813218}
   m_Layer: 0
   m_Name: Ruby
   m_TagString: Untagged
@@ -144,7 +144,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.625}
   m_EdgeRadius: 0
---- !u!50 &3407315660425491999
+--- !u!50 &-1980198324907813218
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0

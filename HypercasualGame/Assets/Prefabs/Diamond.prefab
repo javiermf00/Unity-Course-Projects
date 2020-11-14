@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4487043410862082754}
   - component: {fileID: 4487043410862082753}
   - component: {fileID: 4487043410862082755}
-  - component: {fileID: 4487043410862082756}
+  - component: {fileID: 5175235351733305724}
   m_Layer: 0
   m_Name: Diamond
   m_TagString: Untagged
@@ -144,7 +144,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.875, y: 0.8125}
   m_EdgeRadius: 0
---- !u!50 &4487043410862082756
+--- !u!50 &5175235351733305724
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
@@ -159,9 +159,9 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0

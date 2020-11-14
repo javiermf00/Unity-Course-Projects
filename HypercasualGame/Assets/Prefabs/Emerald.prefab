@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7282962125353396474}
   - component: {fileID: 7282962125353396475}
   - component: {fileID: 7282962125353396473}
-  - component: {fileID: 7282962125353396472}
+  - component: {fileID: -6536105323379112026}
   m_Layer: 0
   m_Name: Emerald
   m_TagString: Untagged
@@ -144,7 +144,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.625, y: 0.625}
   m_EdgeRadius: 0
---- !u!50 &7282962125353396472
+--- !u!50 &-6536105323379112026
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
